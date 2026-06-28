@@ -3,10 +3,10 @@ Python scripting to append data from Autodesk Maya to Unreal Engine Blueprints
 
 I created an emissive material that shifts between two hues over time. The material was applied to an assortment of cubes. I used Python scripting in Autodesk Maya's script editor to compile the data on each cube. Blueprint takes in the data and dictates the translation, rotation and scale of each cube.
 
-## Cube Mesh
+## Cube
 <img width="1126" height="777" alt="Cube_Screenshot" src="https://github.com/user-attachments/assets/19de202a-73ca-4773-9f0d-29da0f5766d4" />
 
-## Cube Mesh Collection
+## Cube Instances
 <img width="1121" height="777" alt="CubesforISM" src="https://github.com/user-attachments/assets/0baad75b-1c92-41d3-8a98-aaa3c18e38c1" />
 
 ## Blueprint Mesh Data Loader
